@@ -53,7 +53,7 @@
 
 ### 100 виртуальных машин Linux и Windows, Windows-инфраструктура
 
-**Выбор:** VMware vSphere.
+**Выбор:** VMware vSphere, Hyper-V
 
 **Причины:**
 
